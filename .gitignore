@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.env
+.venv/
+venv/
+kaggle.json
+data/*
+!data/README.md
+models/*
+!models/README.md
+keras_tuner/
+*.h5
+*.keras
+
